@@ -1,0 +1,13 @@
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\bin\Debug\netcoreapp3.1\Mymusic.exe
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\bin\Debug\netcoreapp3.1\Mymusic.deps.json
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\bin\Debug\netcoreapp3.1\Mymusic.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\bin\Debug\netcoreapp3.1\Mymusic.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\bin\Debug\netcoreapp3.1\Mymusic.dll
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\bin\Debug\netcoreapp3.1\Mymusic.pdb
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\obj\Debug\netcoreapp3.1\Mymusic.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\obj\Debug\netcoreapp3.1\Mymusic.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\obj\Debug\netcoreapp3.1\Mymusic.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\obj\Debug\netcoreapp3.1\Mymusic.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\obj\Debug\netcoreapp3.1\Mymusic.dll
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\obj\Debug\netcoreapp3.1\Mymusic.pdb
+C:\Users\Kelly\Downloads\rodrigo\MyMusic\Mymusic\obj\Debug\netcoreapp3.1\Mymusic.genruntimeconfig.cache
